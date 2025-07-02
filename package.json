@@ -1,15 +1,1 @@
 
-{
-"name": "dex-discord-bot",
-"version": "1.0.0",
-"description": "A witty GPT-powered Discord assistant that roasts users.",
-"main": "index.js",
-"scripts": {
-"start": "node index.js"
-},
-"dependencies": {
-"discord.js": "^14.13.0",
-"dotenv": "^16.3.1",
-"openai": "^4.26.1"
-}
-}
